@@ -8,3 +8,6 @@ docker run -d \
 --name minecraft \
 itzg/minecraft-server
 ```
+
+Adding "Items Adder Documentation":
+https://itemsadder.devs.beer/plugin-usage/first-install
